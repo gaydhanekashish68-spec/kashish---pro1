@@ -1,3 +1,3 @@
 # kashish---pro1
-these is my first project<br>
-by - kashish
+These is my first project<br>
+By - kashish
